@@ -5,7 +5,6 @@
         :key="key"
         :cx="centerOfTheViewBox" :cy="centerOfTheViewBox" :r="radius"
         fill="transparent"
-        stroke="#b1c94e"
         :title="item.name"
         :ref="`items${key}`"
         stroke-width="16"
